@@ -1,0 +1,15 @@
+import Vue from 'vue';
+import {Button,Col, Row,Icon,Field , Cell, CellGroup,Image as VanImage,Lazyload,Swipe,SwipeItem,Search ,Area  } from 'vant';
+Vue.use(Button);
+Vue.use(Col);
+Vue.use(Row);
+Vue.use(Icon);
+Vue.use(Field);
+Vue.use(Cell);
+Vue.use(CellGroup);
+Vue.use(VanImage);
+Vue.use(Lazyload);
+Vue.use(Swipe);
+Vue.use(SwipeItem);
+Vue.use(Search);
+Vue.use(Area);
